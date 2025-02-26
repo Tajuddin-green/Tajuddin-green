@@ -39,7 +39,7 @@ You can click the Preview link to take a look at your changes.
       <samp>
         [ <a href="">about me</a> •
         <a href="">projects</a> •
-        <a href="https://www.linkedin.com/in/0xrokib/">contact</a> ]
+        <a href="https://www.linkedin.com/in/cmtajuddin/">contact</a> ]
       </samp>
     </p>
     <br />
@@ -49,19 +49,19 @@ You can click the Preview link to take a look at your changes.
         <tr>
           <td style="width: 50%; padding: 10px; vertical-align: top;">
             <a href="#github-stats">
-              <img
+<!--               <img
                 alt="GitHub Stats"
-                src="https://github-readme-stats.vercel.app/api?username=0xRokib&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight"
+                src="https://github-readme-stats.vercel.app/api?username=0xRokib&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight" -->
               />
             </a>
           </td>
           <td style="width: 50%; padding: 10px; vertical-align: top;">
-            <a href="#streak-stats">
+<!--             <a href="#streak-stats">
               <img
                 alt="GitHub Streak"
                 src="https://github-readme-streak-stats.herokuapp.com?user=0xRokib&hide_border=true&theme=tokyonight"
               />
-            </a>
+            </a> -->
           </td>
         </tr>
         <!-- Second row with Top Languages -->
@@ -116,17 +116,17 @@ You can click the Preview link to take a look at your changes.
         <!-- Fourth row with LeetCode and HackerRank badges -->
         <tr>
           <td style="width: 50%; padding: 10px;">
-            <a href="https://leetcode.com/u/0xRokib/">
+<!--             <a href="https://leetcode.com/u/0xRokib/"> -->
               <img
-                src="https://img.shields.io/badge/LeetCode-0xRokib-brightgreen?style=for-the-badge&logo=Leetcode"
+<!--                 src="https://img.shields.io/badge/LeetCode-0xRokib-brightgreen?style=for-the-badge&logo=Leetcode" -->
                 alt="Leetcode Profile"
               />
             </a>
           </td>
           <td style="width: 50%; padding: 10px;">
-            <a href="https://www.hackerrank.com/0xrokib">
+<!--             <a href="https://www.hackerrank.com/0xrokib"> -->
               <img
-                src="https://img.shields.io/badge/HackerRank-0xRokib-brightgreen?style=for-the-badge&logo=HackerRank"
+<!--                 src="https://img.shields.io/badge/HackerRank-0xRokib-brightgreen?style=for-the-badge&logo=HackerRank" -->
                 alt="HackerRank Profile"
               />
             </a>
