@@ -48,11 +48,11 @@ You can click the Preview link to take a look at your changes.
         <!-- First row with GitHub Stats and Streaks -->
         <tr>
           <td style="width: 50%; padding: 10px; vertical-align: top;">
-            <a href="#github-stats">
+           <a href="#github-stats">
 <!--               <img
                 alt="GitHub Stats"
-                src="https://github-readme-stats.vercel.app/api?username=0xRokib&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight" -->
-              />
+                src="https://github-readme-stats.vercel.app/api?username=0xRokib&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight" --> 
+<!--               /> -->
             </a>
           </td>
           <td style="width: 50%; padding: 10px; vertical-align: top;">
