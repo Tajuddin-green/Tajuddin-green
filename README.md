@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
     <samp>
       <b>Welcome</b>
       <br />
-      I'm Rokibul Hasan Rokib, a Full Stack Engineer.
+      I'm Taj Uddin, a Full Stack Developer.
       <br />
       <img
         src="https://readme-typing-svg.demolab.com?font=Iosevka&size=16&pause=1000&color=9D7CD8&center=true&vCenter=true&width=435&lines=I+code+efficient+and+elegant+programs"
