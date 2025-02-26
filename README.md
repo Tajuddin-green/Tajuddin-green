@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tajuddin
 - 👀 I’m interested in Web Development
-- 🌱 I’m know C, c++, HTML, CSS, JS, Java, Python
+- 🌱 I’m know C, C++, HTML, CSS, JS, Java, Python
 - 💞️ I’m looking to collaborate on Remote job
 - 📫 Reach me : cmtajuddinchowdhury@gmail.com || Whatsapp: +8801845072525
 
